@@ -4,4 +4,4 @@
 
 Repositório público do semestre de verão de 2013/2014
 
-Documentação: [aqui](wiki)
+Documentação: [aqui](https://github.com/isel-leic-ls/1314-2-common/wiki)
