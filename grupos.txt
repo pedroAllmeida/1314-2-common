@@ -8,7 +8,7 @@ Exemplo:
 LI41D-G00 cguedes fbfreitas
 
 ------------------------------------------------------------------------------------------------------
-LI41D-G01 
+LI41D-G01 AnaSequeira DiogoPoeira DanielSSilva
 LI41D-G02 hppsilva nunomdm fdiogo
 LI41D-G03 
 LI41D-G04  
